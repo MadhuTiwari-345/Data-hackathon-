@@ -3,5 +3,5 @@
 ---
 
 ## Contributor
-      |Yamini | Frontend|
-     |Madhu Tiwari | Backend|
+ Yamini :- Frontend
+ Madhu Tiwari :- Backend
